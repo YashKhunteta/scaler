@@ -1,0 +1,37 @@
+YASH KHUNTETA
+Generative AI Engineer  ·  LLM & RAG Systems  ·  AI/ML Engineer
+Jaipur, India  •  +91-8005656598  •  yashkhunteta1234@gmail.com  •  linkedin.com/in/yashkhunteta  •  github.com/yashkhunteta
+SUMMARY
+AI/ML Engineer with experience building RAG pipelines, multi-agent LLM systems, and ML models from scratch to deployment. At Genpact, cut evaluation time by 60% by building a reusable RAG benchmarking framework. Comfortable working across the model stack — data, fine-tuning, retrieval, inference, and evaluation.
+TECHNICAL SKILLS
+GenAI
+RAG, Fine-Tuning, Embeddings, Prompt Engineering, Vector Databases (FAISS, ChromaDB), Semantic Search
+LLM Stack
+LangChain, LangGraph, Hugging Face Transformers, OpenAI API, RAGAS, Multi-Agent Systems
+ML / DL
+scikit-learn, TensorFlow, Keras, NLP, YOLO, Model Evaluation, Inference Optimisation
+Cloud & Infra
+Azure AI Document Intelligence, Azure OCR, Docker (basic), Git, Jupyter, VS Code
+Languages
+Python, SQL, JavaScript
+WORK EXPERIENCE
+Engineering Trainee — AI/ML Analytics  |  NIIT Organization  |  Jaipur	Oct 2025 – Present
+Built AI agents integrated into live ERP tabs to handle student queries, automate task suggestions, and simplify navigation — reducing manual support load.
+Worked with the product team to connect agent outputs to existing enterprise workflows, handling edge cases and keeping latency acceptable for classroom use.
+Data Scientist Intern  |  Genpact  |  Bengaluru	Jan 2025 – Jun 2025
+Built a modular RAG pipeline that any LLM could plug into, with automated scoring across 10+ metrics (RAGAS, heuristics) — cut benchmarking time by 60%.
+Fine-tuned embedding models and tested different chunking and retrieval strategies to improve answer relevance for specific document types.
+Set up Azure AI Document Intelligence and OCR workflows to extract structured data from unstructured enterprise documents.
+PROJECTS
+Academic Task Learning Agent  ·  LangGraph · LangChain · Python	Jul 2025 – Sep 2025
+Built a 4-agent system (Planner, Notewriter, Advisor, Coordinator) using LangGraph where each agent handles a specific academic task and passes state to the next.
+Used graph-based routing so the system adapts based on what a student needs — task planning, note generation, or study advice — without hardcoded flows.
+Vegetation Recognition System  ·  YOLO · Computer Vision · Python	Jan 2024 – Dec 2024
+Fine-tuned a YOLO model for campus vegetation detection, reaching 81% precision / 85% recall after testing multiple architectures for the best speed-accuracy balance.
+Email/SMS Spam Classifier  ·  NLP · scikit-learn · Naive Bayes	May 2024 – Jul 2024
+Built a text classification pipeline with TF-IDF features and Multinomial Naive Bayes, selecting the final model after comparing five algorithms on precision and recall.
+EDUCATION
+B.Tech Computer Science — Data Science	2021 – 2025
+NIT University, Neemrana  ·  CGPA: 7.48
+Higher Secondary (10+2), PCM — CBSE	2021
+Subodh Public School, Jaipur  ·  12th: 79%  ·  10th: 78%
